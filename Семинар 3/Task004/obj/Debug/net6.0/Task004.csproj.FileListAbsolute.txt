@@ -1,0 +1,15 @@
+C:\Users\Наталья\Обучение\Знакомство с языками программирования\Семинар 3\Task004\bin\Debug\net6.0\Task004.exe
+C:\Users\Наталья\Обучение\Знакомство с языками программирования\Семинар 3\Task004\bin\Debug\net6.0\Task004.deps.json
+C:\Users\Наталья\Обучение\Знакомство с языками программирования\Семинар 3\Task004\bin\Debug\net6.0\Task004.runtimeconfig.json
+C:\Users\Наталья\Обучение\Знакомство с языками программирования\Семинар 3\Task004\bin\Debug\net6.0\Task004.dll
+C:\Users\Наталья\Обучение\Знакомство с языками программирования\Семинар 3\Task004\bin\Debug\net6.0\Task004.pdb
+C:\Users\Наталья\Обучение\Знакомство с языками программирования\Семинар 3\Task004\obj\Debug\net6.0\Task004.csproj.AssemblyReference.cache
+C:\Users\Наталья\Обучение\Знакомство с языками программирования\Семинар 3\Task004\obj\Debug\net6.0\Task004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Наталья\Обучение\Знакомство с языками программирования\Семинар 3\Task004\obj\Debug\net6.0\Task004.AssemblyInfoInputs.cache
+C:\Users\Наталья\Обучение\Знакомство с языками программирования\Семинар 3\Task004\obj\Debug\net6.0\Task004.AssemblyInfo.cs
+C:\Users\Наталья\Обучение\Знакомство с языками программирования\Семинар 3\Task004\obj\Debug\net6.0\Task004.csproj.CoreCompileInputs.cache
+C:\Users\Наталья\Обучение\Знакомство с языками программирования\Семинар 3\Task004\obj\Debug\net6.0\Task004.dll
+C:\Users\Наталья\Обучение\Знакомство с языками программирования\Семинар 3\Task004\obj\Debug\net6.0\refint\Task004.dll
+C:\Users\Наталья\Обучение\Знакомство с языками программирования\Семинар 3\Task004\obj\Debug\net6.0\Task004.pdb
+C:\Users\Наталья\Обучение\Знакомство с языками программирования\Семинар 3\Task004\obj\Debug\net6.0\Task004.genruntimeconfig.cache
+C:\Users\Наталья\Обучение\Знакомство с языками программирования\Семинар 3\Task004\obj\Debug\net6.0\ref\Task004.dll
